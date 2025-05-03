@@ -1,4 +1,4 @@
-# PhysMath Telegram Bot
+# MathPro Telegram Bot
 
 ## Как пользоваться
 
